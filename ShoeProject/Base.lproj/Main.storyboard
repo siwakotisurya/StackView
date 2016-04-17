@@ -21,9 +21,9 @@
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="59"/>
                                 <color key="backgroundColor" red="1" green="0.2847074699845954" blue="0.34744094282486615" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
-                            <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="pbi-Yo-uQS">
-                                <rect key="frame" x="214" y="149" width="259" height="200"/>
-                            </stackView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="5oN-NM-JdE">
+                                <rect key="frame" x="163" y="94" width="274" height="254"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
@@ -33,4 +33,7 @@
             <point key="canvasLocation" x="245" y="306"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="shoes" width="300" height="300"/>
+    </resources>
 </document>
