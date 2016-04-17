@@ -22,23 +22,51 @@
                                 <color key="backgroundColor" red="1" green="0.2847074699845954" blue="0.34744094282486615" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="5oN-NM-JdE">
-                                <rect key="frame" x="145" y="89" width="311" height="280"/>
+                                <rect key="frame" x="179" y="81" width="242" height="192"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1259013-408_DEFAULT" translatesAutoresizingMaskIntoConstraints="NO" id="DgI-sc-wSS">
-                                <rect key="frame" x="63" y="416" width="80" height="80"/>
+                                <rect key="frame" x="63" y="289" width="80" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="26117626_A_llt" translatesAutoresizingMaskIntoConstraints="NO" id="vTT-lx-jPE">
-                                <rect key="frame" x="165" y="416" width="80" height="80"/>
+                                <rect key="frame" x="165" y="289" width="80" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="New-2013-canvas-shoes-lady-canvas-shoes-1908.jpg_350x350" translatesAutoresizingMaskIntoConstraints="NO" id="wqr-h0-tBe">
-                                <rect key="frame" x="264" y="416" width="80" height="80"/>
+                                <rect key="frame" x="264" y="289" width="80" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="chris-gayle-custom-cricket-shoes-west-indies-logo" translatesAutoresizingMaskIntoConstraints="NO" id="LBv-bW-Zuy">
-                                <rect key="frame" x="361" y="416" width="80" height="80"/>
+                                <rect key="frame" x="361" y="289" width="80" height="80"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Sidi-Wire-Carbon-Road-Shoe-Road-Shoes-Yellow-Fluro-Black-2016-SIWIRECLUGIFLNE39" translatesAutoresizingMaskIntoConstraints="NO" id="P5Y-4g-JcQ">
-                                <rect key="frame" x="458" y="416" width="80" height="80"/>
+                                <rect key="frame" x="458" y="289" width="80" height="80"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="My Shoes" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vlA-yQ-UME">
+                                <rect key="frame" x="234" y="394" width="140" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Surya Shoe House" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="alz-V6-VMS">
+                                <rect key="frame" x="179" y="456" width="138" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <color key="textColor" red="0.40398637820512817" green="0.27077737662714441" blue="0.34217709226271775" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Rs: 500.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FNr-Db-yJb">
+                                <rect key="frame" x="338" y="456" width="83" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <color key="textColor" red="0.084738396108150482" green="0.76274436712265015" blue="0.40602508187294006" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="amJ-If-bxd">
+                                <rect key="frame" x="165" y="523" width="98" height="43"/>
+                                <color key="backgroundColor" red="0.97873610258102417" green="0.34202805161476135" blue="0.015585098415613174" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                                <state key="normal" title="Like"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="48h-Xo-F81">
+                                <rect key="frame" x="343" y="523" width="98" height="43"/>
+                                <state key="normal" title="Button"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
