@@ -21,8 +21,23 @@
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="59"/>
                                 <color key="backgroundColor" red="1" green="0.2847074699845954" blue="0.34744094282486615" alpha="1" colorSpace="calibratedRGB"/>
                             </view>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="5oN-NM-JdE">
-                                <rect key="frame" x="163" y="94" width="274" height="254"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="5oN-NM-JdE">
+                                <rect key="frame" x="145" y="89" width="311" height="280"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1259013-408_DEFAULT" translatesAutoresizingMaskIntoConstraints="NO" id="DgI-sc-wSS">
+                                <rect key="frame" x="63" y="416" width="80" height="80"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="26117626_A_llt" translatesAutoresizingMaskIntoConstraints="NO" id="vTT-lx-jPE">
+                                <rect key="frame" x="165" y="416" width="80" height="80"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="New-2013-canvas-shoes-lady-canvas-shoes-1908.jpg_350x350" translatesAutoresizingMaskIntoConstraints="NO" id="wqr-h0-tBe">
+                                <rect key="frame" x="264" y="416" width="80" height="80"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="chris-gayle-custom-cricket-shoes-west-indies-logo" translatesAutoresizingMaskIntoConstraints="NO" id="LBv-bW-Zuy">
+                                <rect key="frame" x="361" y="416" width="80" height="80"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Sidi-Wire-Carbon-Road-Shoe-Road-Shoes-Yellow-Fluro-Black-2016-SIWIRECLUGIFLNE39" translatesAutoresizingMaskIntoConstraints="NO" id="P5Y-4g-JcQ">
+                                <rect key="frame" x="458" y="416" width="80" height="80"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -34,6 +49,11 @@
         </scene>
     </scenes>
     <resources>
+        <image name="1259013-408_DEFAULT" width="1064" height="1240"/>
+        <image name="26117626_A_llt" width="248" height="165"/>
+        <image name="New-2013-canvas-shoes-lady-canvas-shoes-1908.jpg_350x350" width="350" height="290"/>
+        <image name="Sidi-Wire-Carbon-Road-Shoe-Road-Shoes-Yellow-Fluro-Black-2016-SIWIRECLUGIFLNE39" width="1400" height="1400"/>
+        <image name="chris-gayle-custom-cricket-shoes-west-indies-logo" width="500" height="390"/>
         <image name="shoes" width="300" height="300"/>
     </resources>
 </document>
